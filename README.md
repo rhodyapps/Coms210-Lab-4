@@ -1,4 +1,4 @@
-Lab 9: Decimal/Hexadecimal number converter
+Lab 4: Decimal/Hexadecimal number converter
 
 This program is described in Chapter 5 of the Britton Textbook. Please read chapter 5 and 6 to familiarize yourself with the concepts of textbook assignments in CHAPTER 5 and 6.
 
